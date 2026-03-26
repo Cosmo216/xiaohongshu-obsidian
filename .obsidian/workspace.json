@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c8e79cea38e15958",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e23bd215a705555",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          }
-        ]
-      },
-      {
         "id": "64a3de4e217a43c9",
         "type": "tabs",
         "children": [
@@ -27,10 +11,14 @@
             "id": "f802f0ee073d5658",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-03-23-🔮fine的大家心情不好时一般会做些什么？.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-03-23-🔮fine的大家心情不好时一般会做些什么？"
             }
           }
         ]
@@ -197,6 +185,7 @@
   },
   "active": "f802f0ee073d5658",
   "lastOpenFiles": [
+    "2026-03-23-🔮fine的大家心情不好时一般会做些什么？.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -231,7 +220,6 @@
     "2026-03-25-这个精华有点东西 Dermaroller玻尿酸安瓶 - MsHUGO  小红书 - 你的生活兴趣社区/这个精华有点东西 Dermaroller玻尿酸安瓶 - MsHUGO  小红书 - 你的生活兴趣社区.md",
     "2026-03-25-这6色安瓶配MTS绝配！在家做水光太香了！ - 韩美特丽珍MATRIGEN  小红书 - 你的生活兴趣社区/这6色安瓶配MTS绝配！在家做水光太香了！ - 韩美特丽珍MATRIGEN  小红书 - 你的生活兴趣社区.md",
     "2026-03-25-没想到《夜王》塑造出了内娱最罕见的女性群像 - Moca的影视扎记  小红书 - 你的生活兴趣社区/没想到《夜王》塑造出了内娱最罕见的女性群像 - Moca的影视扎记  小红书 - 你的生活兴趣社区.md",
-    "2026-03-25-香港本地人真的不理解内地游客的这些行为！！ - 維港的阿魚🐋  小红书 - 你的生活兴趣社区/香港本地人真的不理解内地游客的这些行为！！ - 維港的阿魚🐋  小红书 - 你的生活兴趣社区.md",
-    "2026-03-25-seedance2.0超强玩法：复刻爆款视频！ - 南门录像厅-阿浪  小红书 - 你的生活兴趣社区/seedance2.0超强玩法：复刻爆款视频！ - 南门录像厅-阿浪  小红书 - 你的生活兴趣社区.md"
+    "2026-03-25-香港本地人真的不理解内地游客的这些行为！！ - 維港的阿魚🐋  小红书 - 你的生活兴趣社区/香港本地人真的不理解内地游客的这些行为！！ - 維港的阿魚🐋  小红书 - 你的生活兴趣社区.md"
   ]
 }
