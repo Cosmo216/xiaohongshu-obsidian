@@ -11,12 +11,14 @@
             "id": "f802f0ee073d5658",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2026-03-23-小女子已经被青色落日珊瑚的搭配逼疯/media/images/3.jpg"
+                "file": "2026-03-23-小女子已经被青色落日珊瑚的搭配逼疯/小女子已经被青色落日珊瑚的搭配逼疯.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "3"
+              "icon": "lucide-file",
+              "title": "小女子已经被青色落日珊瑚的搭配逼疯"
             }
           }
         ]
@@ -38,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -183,11 +185,11 @@
   },
   "active": "e7e1fe5ff45b7675",
   "lastOpenFiles": [
+    "2026-03-23-小女子已经被青色落日珊瑚的搭配逼疯/media/images/3.jpg",
     "2026-03-23-小女子已经被青色落日珊瑚的搭配逼疯/media/images/2.jpg",
     "2026-03-23-小女子已经被青色落日珊瑚的搭配逼疯/media/images/1.jpg",
     "2026-03-23-小女子已经被青色落日珊瑚的搭配逼疯/小女子已经被青色落日珊瑚的搭配逼疯.md",
     "2026-03-23-fine的大家心情不好时一般会做些什么？/fine的大家心情不好时一般会做些什么？.md",
-    "2026-03-23-小女子已经被青色落日珊瑚的搭配逼疯/media/images/3.jpg",
     "2026-03-23-小女子已经被青色落日珊瑚的搭配逼疯/output/二创.md",
     "2026-03-23-小女子已经被青色落日珊瑚的搭配逼疯/media/videos",
     "2026-03-23-小女子已经被青色落日珊瑚的搭配逼疯/media/images",
