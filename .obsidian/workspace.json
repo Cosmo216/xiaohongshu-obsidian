@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#姬宫桃李",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f802f0ee073d5658",
+  "active": "8ed60e94d94be3e2",
   "lastOpenFiles": [
     "2026-03-23-🔮fine的大家心情不好时一般会做些什么？.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
