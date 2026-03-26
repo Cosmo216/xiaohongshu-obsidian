@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "8c250265e2a72526",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e79cea38e15958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e23bd215a705555",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e89e614e97f79e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d0f8a0936f907d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7e1fe5ff45b7675",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8ed60e94d94be3e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ba7216f461eae0a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410.5
+  },
+  "right": {
+    "id": "920196380cdf47ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "59ef5860c7d3b898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca55f1f7cd6f758c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "481e4602da105ad9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "61e7f6522eec9ce7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "85fc9e56680b875d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b17e90fda6f51628",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "e7e1fe5ff45b7675",
+  "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "未命名 1.base",
+    "未命名.base",
+    "2026-03-25-安瓶才是让护肤主理人躺赢的底气！ - 韩美特丽珍MATRIGEN  小红书 - 你的生活兴趣社区/安瓶才是让护肤主理人躺赢的底气！ - 韩美特丽珍MATRIGEN  小红书 - 你的生活兴趣社区.md",
+    "2026-03-25-关于资料分析的提升  - 布丁🍮一定上80分版！  小红书 - 你的生活兴趣社区/关于资料分析的提升  - 布丁🍮一定上80分版！  小红书 - 你的生活兴趣社区.md",
+    "2026-03-25-关于资料分析的提升  - 布丁🍮一定上80分版！  小红书 - 你的生活兴趣社区/output",
+    "2026-03-25-关于资料分析的提升  - 布丁🍮一定上80分版！  小红书 - 你的生活兴趣社区/media",
+    "2026-03-25-关于资料分析的提升  - 布丁🍮一定上80分版！  小红书 - 你的生活兴趣社区",
+    "2026-03-25-安瓶才是让护肤主理人躺赢的底气！ - 韩美特丽珍MATRIGEN  小红书 - 你的生活兴趣社区/output",
+    "2026-03-25-安瓶才是让护肤主理人躺赢的底气！ - 韩美特丽珍MATRIGEN  小红书 - 你的生活兴趣社区/media",
+    "2026-03-25-安瓶才是让护肤主理人躺赢的底气！ - 韩美特丽珍MATRIGEN  小红书 - 你的生活兴趣社区",
+    "2026-03-25-小红书/小红书.md",
+    "2026-03-25-没想到《夜王》塑造出了内娱最罕见的女性群像 - Moca的影视扎记  小红书 - 你的生活兴趣社区.md",
+    "2026-03-25-嗨！吉安君，生日快乐！开心这艺术之路上与你同行，好的伙伴会点燃彼此的光，愿我们能 - 范冰冰  小红书 - 你的生活兴趣社区/嗨！吉安君，生日快乐！开心这艺术之路上与你同行，好的伙伴会点燃彼此的光，愿我们能 - 范冰冰  小红书 - 你的生活兴趣社区.md",
+    "2026-03-25-刚过完一百周年，徕卡转头就要被资本卖了？ - 差评硬件部  小红书 - 你的生活兴趣社区/刚过完一百周年，徕卡转头就要被资本卖了？ - 差评硬件部  小红书 - 你的生活兴趣社区.md",
+    "2026-03-25-这个精华有点东西 Dermaroller玻尿酸安瓶 - MsHUGO  小红书 - 你的生活兴趣社区/这个精华有点东西 Dermaroller玻尿酸安瓶 - MsHUGO  小红书 - 你的生活兴趣社区.md",
+    "2026-03-25-这6色安瓶配MTS绝配！在家做水光太香了！ - 韩美特丽珍MATRIGEN  小红书 - 你的生活兴趣社区/这6色安瓶配MTS绝配！在家做水光太香了！ - 韩美特丽珍MATRIGEN  小红书 - 你的生活兴趣社区.md",
+    "2026-03-25-没想到《夜王》塑造出了内娱最罕见的女性群像 - Moca的影视扎记  小红书 - 你的生活兴趣社区/没想到《夜王》塑造出了内娱最罕见的女性群像 - Moca的影视扎记  小红书 - 你的生活兴趣社区.md",
+    "2026-03-25-香港本地人真的不理解内地游客的这些行为！！ - 維港的阿魚🐋  小红书 - 你的生活兴趣社区/香港本地人真的不理解内地游客的这些行为！！ - 維港的阿魚🐋  小红书 - 你的生活兴趣社区.md",
+    "2026-03-25-seedance2.0超强玩法：复刻爆款视频！ - 南门录像厅-阿浪  小红书 - 你的生活兴趣社区/seedance2.0超强玩法：复刻爆款视频！ - 南门录像厅-阿浪  小红书 - 你的生活兴趣社区.md"
+  ]
+}
