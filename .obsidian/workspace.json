@@ -18,6 +18,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "64a3de4e217a43c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f802f0ee073d5658",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +195,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7e1fe5ff45b7675",
+  "active": "f802f0ee073d5658",
   "lastOpenFiles": [
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
